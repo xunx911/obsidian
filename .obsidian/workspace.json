@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "601d9167021800ae",
+        "id": "086d63bfc93dd2f7",
         "type": "tabs",
-        "dimension": 20.421810699588477,
         "children": [
           {
-            "id": "38200a5b2a5c04c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "论文/个性推荐.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e4df78e3603e3b2",
-        "type": "tabs",
-        "dimension": 79.57818930041152,
-        "children": [
-          {
-            "id": "6e8dc15047bde70b",
+            "id": "2f96e0eba0e41520",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +124,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,10 +137,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6e8dc15047bde70b",
+  "active": "2f96e0eba0e41520",
   "lastOpenFiles": [
+    "推荐/个性推荐.md",
+    "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "推荐/评价指标.md",
-    "论文/个性推荐.md",
+    "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
     "推荐",
     "未命名.md",
     "论文",
