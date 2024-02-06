@@ -14,7 +14,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/评价指标.md"
+                "file": "论文/个性推荐.md"
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推荐/评价指标.md",
+                "file": "论文/个性推荐.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/评价指标.md",
+                "file": "论文/个性推荐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/评价指标.md",
+                "file": "论文/个性推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +156,8 @@
   },
   "active": "6e8dc15047bde70b",
   "lastOpenFiles": [
-    "论文/个性推荐.md",
     "推荐/评价指标.md",
+    "论文/个性推荐.md",
     "推荐",
     "未命名.md",
     "论文",
