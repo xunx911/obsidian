@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "601d9167021800ae",
+        "type": "tabs",
+        "dimension": 20.421810699588477,
+        "children": [
+          {
+            "id": "38200a5b2a5c04c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "推荐/评价指标.md"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "4e4df78e3603e3b2",
         "type": "tabs",
+        "dimension": 79.57818930041152,
         "children": [
           {
             "id": "6e8dc15047bde70b",
@@ -13,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/未命名。init。test.md",
+                "file": "推荐/评价指标.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +103,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名/未命名。init。test.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "推荐/评价指标.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名/未命名。init。test.md",
+                "file": "推荐/评价指标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,18 +136,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "38200a5b2a5c04c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "未命名/未命名。init。test.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,9 +156,11 @@
   },
   "active": "6e8dc15047bde70b",
   "lastOpenFiles": [
-    "未命名/未命名。init。test.md",
+    "论文/个性推荐.md",
+    "推荐/评价指标.md",
+    "推荐",
     "未命名.md",
-    "未命名",
+    "论文",
     "2024-02-06.md",
     "2023-12-22.md",
     "未命名.canvas"
