@@ -17,4 +17,12 @@ Demographic-Guided Behavior Patterns Contrast (DGBPC) model
 $从U中各选了k个和u相同人格的以及不同人格的,组成了K个对比组$.具体来说，在为学习者$u$选择第$i个对比组\{u^s_i，u^d_i\}时，根据u和其他学习者∈U的人口统计特$征集计算余弦相似度。然后进行排序。然后，$选择与学习者u具有相同性格类别的第i个$学习者和与学习者$u$具有不同性格类别的第$i个学习者。选取的两个学习者将是第i个学习者u的对比组.$
 
 # 2
+
 ![[Pasted image 20240206170656 1.png]]![[Pasted image 20240206171603 1.png]]
+![[Pasted image 20240206205416.png]]
+![[Pasted image 20240206205444.png]]
+
+# 3
+![[Pasted image 20240206205741.png]]
+# 4
+
