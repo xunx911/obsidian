@@ -24,18 +24,22 @@ $从U中各选了k个和u相同人格的以及不同人格的,组成了K个对�
 ![[Pasted image 20240206205444.png]]
 
 # 3
+
 ![[Pasted image 20240206205741.png]]
+
 # 4
 
 ![[Pasted image 20240206212715.png]]
 $对u来说,拉近与u^s的距离,拉远与u^d的距离$
+
 # 5
+
 We use the fine behavior patterns of the learners to classify their personalities.
 ![[Pasted image 20240207115059.png]]
 疑似真实值和预测值反了
 
-
 # 数据集
+
 ![[Pasted image 20240207120844.png]]
 ![[Pasted image 20240207120853.png]]
 主流数据集没有行为数据,要么是private的小数据集
