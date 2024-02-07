@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "086d63bfc93dd2f7",
+        "id": "6b6b43f2afa487d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f96e0eba0e41520",
+            "id": "c8e5c30ebeaa76bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推荐/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/个性推荐.md",
+                "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +137,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5b0cc58f4d948ee3",
+  "active": "c8e5c30ebeaa76bb",
   "lastOpenFiles": [
-    "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "推荐/个性推荐.md",
+    "未命名.canvas",
+    "Pasted image 20240207140526.png",
+    "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "Pasted image 20240207121927.png",
     "Pasted image 20240207120853.png",
     "Pasted image 20240207120844.png",
@@ -151,7 +152,6 @@
     "Pasted image 20240206205444.png",
     "Pasted image 20240206205416.png",
     "Pasted image 20240206163614 1.png",
-    "Pasted image 20240206170656 1.png",
     "Pasted image 20240206170656.png.md",
     "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
     "推荐/评价指标.md",
@@ -159,7 +159,6 @@
     "未命名.md",
     "论文",
     "2024-02-06.md",
-    "2023-12-22.md",
-    "未命名.canvas"
+    "2023-12-22.md"
   ]
 }
