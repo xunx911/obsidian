@@ -36,7 +36,7 @@ $对u来说,拉近与u^s的距离,拉远与u^d的距离$
 
 We use the fine behavior patterns of the learners to classify their personalities.
 ![[Pasted image 20240207115059.png]]
-疑似真实值和预测值反了
+人格分类时使用的是精细行为模式$F_u$放入一个线性层和一个softmax层得到概率分布,参见模型图,箭头是从精细行为模式出来的.最后交叉熵损失疑似真实值和预测值反了
 
 # 数据集
 
@@ -46,3 +46,7 @@ We use the fine behavior patterns of the learners to classify their personalitie
 极端人格分布不均衡问题
 ![[Pasted image 20240207121927.png]]
 6个行为特征是数值特征,人口统计学特征为分类特征oh编码
+
+
+
+...各种消融实验,sota
