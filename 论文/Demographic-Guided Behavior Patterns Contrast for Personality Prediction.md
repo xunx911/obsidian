@@ -33,3 +33,9 @@ $对u来说,拉近与u^s的距离,拉远与u^d的距离$
 We use the fine behavior patterns of the learners to classify their personalities.
 ![[Pasted image 20240207115059.png]]
 疑似真实值和预测值反了
+
+
+# 数据集
+![[Pasted image 20240207120844.png]]
+![[Pasted image 20240207120853.png]]
+分布不均衡
