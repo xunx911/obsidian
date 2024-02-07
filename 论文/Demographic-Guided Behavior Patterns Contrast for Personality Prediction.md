@@ -38,4 +38,7 @@ We use the fine behavior patterns of the learners to classify their personalitie
 # 数据集
 ![[Pasted image 20240207120844.png]]
 ![[Pasted image 20240207120853.png]]
-分布不均衡
+主流数据集没有行为数据,要么是private的小数据集
+极端人格分布不均衡问题
+![[Pasted image 20240207121927.png]]
+6个行为特征是数值特征,人口统计学特征为分类特征oh编码
