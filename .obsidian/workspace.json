@@ -117,6 +117,17 @@
                 "file": "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md"
               }
             }
+          },
+          {
+            "id": "f62628702894e9af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 2
