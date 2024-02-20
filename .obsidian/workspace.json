@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,22 +151,22 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
-    "Pasted image 20240220120802.png",
-    "Pasted image 20240220115858.png",
-    "Pasted image 20240220115204.png",
-    "Pasted image 20240220114949.png",
+    "Pasted image 20240220124255.png",
+    "Pasted image 20240220124216.png",
+    "Pasted image 20240220124024.png",
+    "Pasted image 20240220123905.png",
+    "Pasted image 20240220123844.png",
+    "Pasted image 20240220123618.png",
+    "Pasted image 20240220123609.png",
+    "Pasted image 20240220123422.png",
+    "Pasted image 20240220123114.png",
+    "Pasted image 20240220123018.png",
+    "Pasted image 20240220122938.png",
     "推荐/评价指标.md",
     "推荐/王树森-小红书推荐系统.md",
     "推荐/个性推荐.md",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "未命名.canvas",
-    "Pasted image 20240207140526.png",
-    "Pasted image 20240207121927.png",
-    "Pasted image 20240207120853.png",
-    "Pasted image 20240207120844.png",
-    "Pasted image 20240207115059.png",
-    "Pasted image 20240206212715.png",
-    "Pasted image 20240206205741.png",
     "Pasted image 20240206170656.png.md",
     "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
     "推荐",
