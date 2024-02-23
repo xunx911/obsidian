@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "104a437cf5a82025",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -159,8 +147,14 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "104a437cf5a82025",
+  "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "推荐/训练.md",
+    "推荐/评价指标.md",
+    "推荐/个性推荐.md",
+    "推荐/王树森-小红书推荐系统.md",
+    "Pasted image 20240223103449.png",
+    "Pasted image 20240223103247.png",
     "Pasted image 20240221171740.png",
     "Pasted image 20240221171044.png",
     "Pasted image 20240221164449.png",
@@ -169,12 +163,6 @@
     "Pasted image 20240221164349.png",
     "Pasted image 20240221164216.png",
     "Pasted image 20240221164112.png",
-    "Pasted image 20240221164031.png",
-    "Pasted image 20240221164008.png",
-    "Pasted image 20240221163928.png",
-    "推荐/评价指标.md",
-    "推荐/王树森-小红书推荐系统.md",
-    "推荐/个性推荐.md",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "未命名.canvas",
     "Pasted image 20240206170656.png.md",
