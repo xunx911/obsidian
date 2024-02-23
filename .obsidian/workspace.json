@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md",
+                "file": "算法基础/EM算法.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md",
+                "file": "算法基础/EM算法.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md",
+                "file": "算法基础/EM算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md"
+                "file": "算法基础/EM算法.md"
               }
             }
           },
@@ -150,6 +149,11 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "Pasted image 20240223190054.png",
+    "未命名.md",
+    "算法基础/EM算法.md",
+    "推荐/王树森-小红书推荐系统.md",
+    "算法基础",
     "Pasted image 20240223171630.png",
     "Pasted image 20240223170552.png",
     "Pasted image 20240223170143.png",
@@ -160,9 +164,7 @@
     "Pasted image 20240223163749.png",
     "Pasted image 20240223153705.png",
     "Pasted image 20240223153638.png",
-    "Pasted image 20240223153629.png",
     "推荐/训练.md",
-    "推荐/王树森-小红书推荐系统.md",
     "推荐/评价指标.md",
     "推荐/个性推荐.md",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
@@ -170,7 +172,6 @@
     "Pasted image 20240206170656.png.md",
     "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
     "推荐",
-    "未命名.md",
     "论文",
     "2024-02-06.md",
     "2023-12-22.md"
