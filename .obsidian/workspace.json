@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "104a437cf5a82025",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +159,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d06ba4d282183947",
+  "active": "104a437cf5a82025",
   "lastOpenFiles": [
     "Pasted image 20240221171740.png",
     "Pasted image 20240221171044.png",
