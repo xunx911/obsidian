@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法基础/EM算法.md",
+                "file": "推荐/王树森-小红书推荐系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/EM算法.md",
+                "file": "推荐/王树森-小红书推荐系统.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/EM算法.md",
+                "file": "推荐/王树森-小红书推荐系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/EM算法.md"
+                "file": "推荐/王树森-小红书推荐系统.md"
               }
             }
           },
@@ -149,9 +150,12 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "Pasted image 20240224130232.png",
+    "Pasted image 20240224130156.png",
+    "Pasted image 20240224125915.png",
+    "算法基础/EM算法.md",
     "Pasted image 20240223190054.png",
     "未命名.md",
-    "算法基础/EM算法.md",
     "推荐/王树森-小红书推荐系统.md",
     "算法基础",
     "Pasted image 20240223171630.png",
@@ -161,9 +165,6 @@
     "Pasted image 20240223164158.png",
     "Pasted image 20240223164025.png",
     "Pasted image 20240223163800.png",
-    "Pasted image 20240223163749.png",
-    "Pasted image 20240223153705.png",
-    "Pasted image 20240223153638.png",
     "推荐/训练.md",
     "推荐/评价指标.md",
     "推荐/个性推荐.md",
