@@ -23,14 +23,28 @@
             "id": "3a6de6a8216d23c4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "论文/SELF-RAG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a576aff138503c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "推荐/王树森-小红书推荐系统.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/EM算法.md",
+                "file": "推荐/王树森-小红书推荐系统.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/EM算法.md",
+                "file": "推荐/王树森-小红书推荐系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/EM算法.md"
+                "file": "推荐/王树森-小红书推荐系统.md"
               }
             }
           },
@@ -158,20 +172,22 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3a6de6a8216d23c4",
+  "active": "40a576aff138503c",
   "lastOpenFiles": [
+    "Pasted image 20240226151247.png",
+    "Pasted image 20240226151216.png",
+    "Pasted image 20240226150921.png",
+    "Pasted image 20240226150539.png",
+    "Pasted image 20240226150447.png",
+    "Pasted image 20240226150331.png",
+    "Pasted image 20240226150231.png",
+    "Pasted image 20240226145814.png",
+    "Pasted image 20240226145809.png",
+    "Pasted image 20240226145540.png",
+    "算法基础/EM算法.md",
+    "论文/SELF-RAG.md",
     "推荐/王树森-小红书推荐系统.md",
     "Pasted image 20240224180342.png",
-    "Pasted image 20240224180306.png",
-    "Pasted image 20240224175753.png",
-    "Pasted image 20240224175629.png",
-    "Pasted image 20240224175549.png",
-    "Pasted image 20240224175415.png",
-    "Pasted image 20240224175410.png",
-    "Pasted image 20240224175219.png",
-    "Pasted image 20240224175139.png",
-    "Pasted image 20240224175012.png",
-    "算法基础/EM算法.md",
     "未命名.md",
     "算法基础",
     "推荐/训练.md",
