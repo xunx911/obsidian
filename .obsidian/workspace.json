@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -174,17 +175,17 @@
   },
   "active": "40a576aff138503c",
   "lastOpenFiles": [
+    "Pasted image 20240301154956.png",
+    "Pasted image 20240301154824.png",
+    "Pasted image 20240301154810.png",
+    "Pasted image 20240301154432.png",
+    "Pasted image 20240301154421.png",
+    "Pasted image 20240301154123.png",
+    "Pasted image 20240301154019.png",
     "Pasted image 20240227174016.png",
     "Pasted image 20240227173920.png",
     "Pasted image 20240227173855.png",
     "Pasted image 20240227173843.png",
-    "Pasted image 20240227163520.png",
-    "Pasted image 20240227163455.png",
-    "Pasted image 20240227163345.png",
-    "Pasted image 20240227163251.png",
-    "Pasted image 20240227163214.png",
-    "Pasted image 20240227163102.png",
-    "Pasted image 20240227162924.png",
     "算法基础/EM算法.md",
     "论文/SELF-RAG.md",
     "推荐/王树森-小红书推荐系统.md",
