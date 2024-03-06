@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md",
+                "file": "论文/SELF-RAG.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md",
+                "file": "论文/SELF-RAG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/王树森-小红书推荐系统.md"
+                "file": "论文/SELF-RAG.md"
               }
             }
           },
@@ -173,8 +172,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "40a576aff138503c",
+  "active": "3a6de6a8216d23c4",
   "lastOpenFiles": [
+    "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
+    "论文/SELF-RAG.md",
+    "推荐/王树森-小红书推荐系统.md",
     "Pasted image 20240303161016.png",
     "Pasted image 20240303160843.png",
     "Pasted image 20240303160820.png",
@@ -185,16 +187,12 @@
     "Pasted image 20240303160416.png",
     "Pasted image 20240303160009.png",
     "Pasted image 20240303160001.png",
-    "Pasted image 20240303155928.png",
     "算法基础/EM算法.md",
-    "论文/SELF-RAG.md",
-    "推荐/王树森-小红书推荐系统.md",
     "未命名.md",
     "算法基础",
     "推荐/训练.md",
     "推荐/评价指标.md",
     "推荐/个性推荐.md",
-    "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "未命名.canvas",
     "Pasted image 20240206170656.png.md",
     "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
