@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面试/python.md",
+                "file": "推荐/课程推荐.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面试/python.md",
+                "file": "推荐/课程推荐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "面试/python.md",
+                "file": "推荐/课程推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面试/python.md"
+                "file": "推荐/课程推荐.md"
               }
             }
           },
@@ -149,8 +149,10 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
-    "面试/基础.md",
+    "Pasted image 20240322151717.png",
     "面试/python.md",
+    "推荐/课程推荐.md",
+    "面试/基础.md",
     "未命名.md",
     "面试",
     "推荐/王树森-小红书推荐系统.md",
