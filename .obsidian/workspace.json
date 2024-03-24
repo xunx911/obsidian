@@ -23,9 +23,14 @@
             "id": "90bd437e19356b34",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "推荐/课程推荐.canvas",
+                "viewState": {
+                  "x": -1.9602233289548678,
+                  "y": -48.25609380479983,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/课程推荐.md",
+                "file": "推荐/课程推荐.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/课程推荐.md",
+                "file": "推荐/课程推荐.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/课程推荐.md"
+                "file": "推荐/课程推荐.canvas"
               }
             }
           },
@@ -145,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,9 +166,10 @@
   },
   "active": "90bd437e19356b34",
   "lastOpenFiles": [
+    "推荐/课程推荐.md",
+    "推荐/课程推荐.canvas",
     "Pasted image 20240322151717.png",
     "面试/python.md",
-    "推荐/课程推荐.md",
     "面试/基础.md",
     "未命名.md",
     "面试",
@@ -177,7 +184,6 @@
     "Pasted image 20240303160516.png",
     "Pasted image 20240303160434.png",
     "Pasted image 20240303160416.png",
-    "Pasted image 20240303160009.png",
     "算法基础/EM算法.md",
     "算法基础",
     "推荐/训练.md",

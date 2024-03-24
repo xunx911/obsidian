@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"ec62f7f99e3ff8d7","x":20,"y":-240,"width":220,"height":60,"type":"text","text":"学习者是否报名课程"},
+		{"id":"733052111a01d233","type":"text","text":"学习者是否点击课程","x":20,"y":-180,"width":220,"height":60},
+		{"id":"a63d143fa65c495b","type":"text","text":"学习者是否交互课程","x":20,"y":-120,"width":220,"height":60},
+		{"id":"6cabdc8b19854a6f","type":"text","text":"学习者是否完成课程","x":20,"y":-60,"width":220,"height":60},
+		{"id":"e70ced93b2745dec","x":-260,"y":-150,"width":180,"height":60,"type":"text","text":"推荐效果的判断"}
+	],
+	"edges":[
+		{"id":"ff300269c7526e20","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"ec62f7f99e3ff8d7","toSide":"left"},
+		{"id":"07a268f9e5cc36cf","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"733052111a01d233","toSide":"left"},
+		{"id":"9cd0014145833cad","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"a63d143fa65c495b","toSide":"left"},
+		{"id":"d53d2e78c4b16e05","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"6cabdc8b19854a6f","toSide":"left"}
+	]
+}
