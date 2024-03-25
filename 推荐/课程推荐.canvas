@@ -1,15 +1,28 @@
 {
 	"nodes":[
-		{"id":"ec62f7f99e3ff8d7","x":20,"y":-240,"width":220,"height":60,"type":"text","text":"学习者是否报名课程"},
+		{"id":"ec62f7f99e3ff8d7","type":"text","text":"学习者是否报名课程","x":20,"y":-240,"width":220,"height":60},
 		{"id":"733052111a01d233","type":"text","text":"学习者是否点击课程","x":20,"y":-180,"width":220,"height":60},
 		{"id":"a63d143fa65c495b","type":"text","text":"学习者是否交互课程","x":20,"y":-120,"width":220,"height":60},
 		{"id":"6cabdc8b19854a6f","type":"text","text":"学习者是否完成课程","x":20,"y":-60,"width":220,"height":60},
-		{"id":"e70ced93b2745dec","x":-260,"y":-150,"width":180,"height":60,"type":"text","text":"推荐效果的判断"}
+		{"id":"e70ced93b2745dec","type":"text","text":"推荐效果的判断","x":-260,"y":-150,"width":180,"height":60},
+		{"id":"87cd6804733b73f1","type":"text","text":"数据集","x":-260,"y":-640,"width":120,"height":60},
+		{"id":"105807916ed5abfc","type":"text","text":"XuetangX","x":-60,"y":-780,"width":140,"height":60},
+		{"id":"fcc01d7634af4885","type":"text","text":"KDDCUP","x":-60,"y":-480,"width":140,"height":60},
+		{"id":"b4f71ad0bfd96f51","type":"text","text":"tracking log","x":160,"y":-880,"width":220,"height":60},
+		{"id":"66ac67403ce28088","type":"text","text":"Dropout Prediction Dataset","x":160,"y":-820,"width":220,"height":60},
+		{"id":"c532f0804b25552f","type":"text","text":"User Profile","x":160,"y":-760,"width":220,"height":60},
+		{"id":"404b93f7f9f1576f","type":"text","text":"Course Information","x":160,"y":-700,"width":220,"height":60}
 	],
 	"edges":[
 		{"id":"ff300269c7526e20","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"ec62f7f99e3ff8d7","toSide":"left"},
 		{"id":"07a268f9e5cc36cf","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"733052111a01d233","toSide":"left"},
 		{"id":"9cd0014145833cad","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"a63d143fa65c495b","toSide":"left"},
-		{"id":"d53d2e78c4b16e05","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"6cabdc8b19854a6f","toSide":"left"}
+		{"id":"d53d2e78c4b16e05","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"6cabdc8b19854a6f","toSide":"left"},
+		{"id":"e1a8a946fda8e413","fromNode":"87cd6804733b73f1","fromSide":"right","toNode":"105807916ed5abfc","toSide":"left"},
+		{"id":"9e8e9187fadd80b6","fromNode":"87cd6804733b73f1","fromSide":"right","toNode":"fcc01d7634af4885","toSide":"left"},
+		{"id":"441e4cec6b0607a3","fromNode":"105807916ed5abfc","fromSide":"right","toNode":"b4f71ad0bfd96f51","toSide":"left"},
+		{"id":"fd5a51c9bdfc1220","fromNode":"105807916ed5abfc","fromSide":"right","toNode":"66ac67403ce28088","toSide":"left"},
+		{"id":"a12e5089d8849ebf","fromNode":"105807916ed5abfc","fromSide":"right","toNode":"c532f0804b25552f","toSide":"left"},
+		{"id":"01fc0ef7926a03ba","fromNode":"105807916ed5abfc","fromSide":"right","toNode":"404b93f7f9f1576f","toSide":"left"}
 	]
 }
