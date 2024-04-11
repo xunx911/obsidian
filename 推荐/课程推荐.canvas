@@ -31,10 +31,10 @@
 		{"id":"c58bf96ef098685b","type":"text","text":"预测","x":990,"y":-400,"width":250,"height":71},
 		{"id":"29d2db072fd8d373","type":"text","text":"CF","x":621,"y":-651,"width":250,"height":60},
 		{"id":"c30bd7ea18e5e2d5","type":"text","text":"基于图","x":575,"y":-766,"width":250,"height":60},
-		{"id":"287d2855f9e06bcf","type":"text","text":"Sequence","x":550,"y":-540,"width":250,"height":60},
-		{"id":"b4b8932b3aac7c09","type":"text","text":"矩阵分解","x":551,"y":-460,"width":250,"height":60},
-		{"id":"65665f950614bf1b","x":551,"y":-364,"width":250,"height":60,"type":"text","text":"知识图谱"},
-		{"id":"4f7f31ed0c0560af","x":495,"y":-270,"width":250,"height":60,"type":"text","text":"文本"}
+		{"id":"4f7f31ed0c0560af","x":495,"y":-270,"width":250,"height":60,"type":"text","text":"文本"},
+		{"id":"65665f950614bf1b","x":575,"y":-359,"width":250,"height":60,"type":"text","text":"知识图谱"},
+		{"id":"287d2855f9e06bcf","type":"text","text":"Sequence","x":535,"y":-540,"width":250,"height":60},
+		{"id":"b4b8932b3aac7c09","type":"text","text":"矩阵分解","x":535,"y":-460,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ff300269c7526e20","fromNode":"e70ced93b2745dec","fromSide":"right","toNode":"ec62f7f99e3ff8d7","toSide":"left"},
