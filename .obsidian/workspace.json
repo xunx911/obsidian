@@ -38,9 +38,11 @@
             "id": "3f5d90820b92a08c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "LLM/长文本能力.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -95,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/课程推荐.canvas",
+                "file": "LLM/长文本能力.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/课程推荐.canvas",
+                "file": "LLM/长文本能力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/课程推荐.canvas"
+                "file": "LLM/长文本能力.md"
               }
             }
           },
@@ -160,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,24 +178,27 @@
   },
   "active": "3f5d90820b92a08c",
   "lastOpenFiles": [
+    "LLM/image-16.png",
+    "LLM/image-15.png",
+    "LLM/image-14.png",
+    "LLM/image-13.png",
+    "LLM/image-12.png",
+    "LLM/image-11.png",
+    "LLM/image-10.png",
+    "LLM/image-9.png",
+    "LLM/image-8.png",
+    "LLM/image-7.png",
+    "LLM/image-6.png",
+    "LLM/长文本能力.md",
+    "LLM",
     "推荐/课程推荐.md",
     "推荐/课程推荐.canvas",
-    "Pasted image 20240322151717.png",
     "基础/python.md",
     "基础/基础.md",
     "未命名.md",
     "基础",
     "推荐/王树森-小红书推荐系统.md",
     "论文/SELF-RAG.md",
-    "Pasted image 20240306201719.png",
-    "Pasted image 20240303161016.png",
-    "Pasted image 20240303160843.png",
-    "Pasted image 20240303160820.png",
-    "Pasted image 20240303160803.png",
-    "Pasted image 20240303160629.png",
-    "Pasted image 20240303160516.png",
-    "Pasted image 20240303160434.png",
-    "Pasted image 20240303160416.png",
     "算法基础/EM算法.md",
     "算法基础",
     "推荐/训练.md",
