@@ -33,9 +33,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "3f5d90820b92a08c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +174,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "90bd437e19356b34",
+  "active": "3f5d90820b92a08c",
   "lastOpenFiles": [
     "推荐/课程推荐.md",
     "推荐/课程推荐.canvas",
