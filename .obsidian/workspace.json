@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "推荐/课程推荐.md",
+                "file": "LLM/坑.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "推荐/课程推荐.md",
+                "file": "LLM/坑.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "推荐/课程推荐.md",
+                "file": "LLM/坑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "推荐/课程推荐.md"
+                "file": "LLM/坑.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "推荐/课程推荐.md",
+    "LLM/坑.md",
     "LLM/长文本能力.md",
     "LLM/image-16.png",
     "LLM/image-15.png",
@@ -189,7 +191,6 @@
     "LLM/image-8.png",
     "LLM/image-7.png",
     "LLM",
-    "推荐/课程推荐.md",
     "推荐/课程推荐.canvas",
     "基础/python.md",
     "基础/基础.md",
