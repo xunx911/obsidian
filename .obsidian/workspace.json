@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8b3a0cfb4128a6a1",
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/长文本能力.md",
+                "file": "推荐/课程推荐.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/长文本能力.md",
+                "file": "推荐/课程推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/长文本能力.md"
+                "file": "推荐/课程推荐.md"
               }
             }
           },
@@ -163,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +175,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "3f5d90820b92a08c",
+  "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "LLM/长文本能力.md",
     "LLM/image-16.png",
     "LLM/image-15.png",
     "LLM/image-14.png",
@@ -188,8 +188,6 @@
     "LLM/image-9.png",
     "LLM/image-8.png",
     "LLM/image-7.png",
-    "LLM/image-6.png",
-    "LLM/长文本能力.md",
     "LLM",
     "推荐/课程推荐.md",
     "推荐/课程推荐.canvas",
