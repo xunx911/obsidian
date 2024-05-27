@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础/python.md",
+                "file": "基础/python/bytecode&frame.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础/python.md",
+                "file": "基础/python/bytecode&frame.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础/python.md",
+                "file": "基础/python/bytecode&frame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础/python.md"
+                "file": "基础/python/bytecode&frame.md"
               }
             }
           },
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 242.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +176,19 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "基础/python/GIL.md",
+    "基础/python/运行时环境.md",
+    "基础/python/bytecode&frame.md",
+    "推荐/课程推荐.canvas",
+    "LLM/长文本能力.md",
     "LLM/训练.md",
     "LLM/坑.md",
     "推荐/课程推荐.md",
-    "LLM/长文本能力.md",
+    "推荐/个性推荐.md",
+    "推荐/评价指标.md",
+    "推荐/王树森-小红书推荐系统.md",
+    "基础/基础.md",
+    "基础/python",
     "LLM/image-16.png",
     "LLM/image-15.png",
     "LLM/image-14.png",
@@ -192,18 +200,12 @@
     "LLM/image-8.png",
     "LLM/image-7.png",
     "LLM",
-    "推荐/课程推荐.canvas",
-    "基础/python.md",
-    "基础/基础.md",
     "未命名.md",
     "基础",
-    "推荐/王树森-小红书推荐系统.md",
     "论文/SELF-RAG.md",
     "算法基础/EM算法.md",
     "算法基础",
     "推荐/训练.md",
-    "推荐/评价指标.md",
-    "推荐/个性推荐.md",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
     "未命名.canvas",
     "Pasted image 20240206170656.png.md",
