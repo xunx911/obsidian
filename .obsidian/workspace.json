@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "论文/SELF-RAG.md",
+                "file": "LLM/数据构造.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "论文/SELF-RAG.md",
+                "file": "LLM/数据构造.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "论文/SELF-RAG.md",
+                "file": "LLM/数据构造.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "论文/SELF-RAG.md"
+                "file": "LLM/数据构造.md"
               }
             }
           },
@@ -176,7 +176,10 @@
   },
   "active": "d06ba4d282183947",
   "lastOpenFiles": [
+    "Pasted image 20240724145827.png",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
+    "LLM/数据构造.md",
+    "论文/SELF-RAG.md",
     "推荐/课程推荐.canvas",
     "推荐/课程推荐.md",
     "推荐/评价指标.md",
@@ -206,7 +209,6 @@
     "LLM",
     "未命名.md",
     "基础",
-    "论文/SELF-RAG.md",
     "算法基础/EM算法.md",
     "算法基础",
     "未命名.canvas",
