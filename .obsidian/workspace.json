@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "45faf44795ee4a69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "90bd437e19356b34",
             "type": "leaf",
             "state": {
@@ -46,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,12 +185,21 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "d06ba4d282183947",
+  "active": "45faf44795ee4a69",
   "lastOpenFiles": [
-    "Pasted image 20240724145827.png",
+    "LLM/长文本能力.md",
+    "LLM/训练.md",
+    "LLM/坑.md",
     "论文/Demographic-Guided Behavior Patterns Contrast for Personality Prediction.md",
-    "LLM/数据构造.md",
     "论文/SELF-RAG.md",
+    "推荐/个性推荐.md",
+    "算法基础/EM算法.md",
+    "基础/python/GIL.md",
+    "基础/python/code object.md",
+    "基础/python/bytecode&frame.md",
+    "基础/python/运行时环境.md",
+    "LLM/数据构造.md",
+    "Pasted image 20240724145827.png",
     "推荐/课程推荐.canvas",
     "推荐/课程推荐.md",
     "推荐/评价指标.md",
@@ -187,14 +207,6 @@
     "推荐/训练.md",
     "基础/终端配置.md",
     "Pasted image 20240528182708.png",
-    "基础/python/code object.md",
-    "基础/python/bytecode&frame.md",
-    "基础/python/GIL.md",
-    "基础/python/运行时环境.md",
-    "LLM/长文本能力.md",
-    "LLM/训练.md",
-    "LLM/坑.md",
-    "推荐/个性推荐.md",
     "基础/基础.md",
     "基础/python",
     "LLM/image-16.png",
@@ -205,11 +217,9 @@
     "LLM/image-11.png",
     "LLM/image-10.png",
     "LLM/image-9.png",
-    "LLM/image-8.png",
     "LLM",
     "未命名.md",
     "基础",
-    "算法基础/EM算法.md",
     "算法基础",
     "未命名.canvas",
     "Pasted image 20240206170656.png.md",
