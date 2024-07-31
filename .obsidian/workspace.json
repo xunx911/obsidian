@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM学习资料/训练.md",
+                "file": "LLM学习资料/images/分布式.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM学习资料/训练.md",
+                "file": "LLM学习资料/images/分布式.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM学习资料/训练.md",
+                "file": "LLM学习资料/images/分布式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM学习资料/训练.md"
+                "file": "LLM学习资料/images/分布式.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "45faf44795ee4a69",
   "lastOpenFiles": [
-    "LLM学习资料/readme.md",
     "LLM学习资料/训练.md",
+    "LLM学习资料/images/分布式.md",
+    "LLM学习资料/readme.md",
     "LLM学习资料/简介.md",
     "LLM学习资料/部署.md",
     "[1706.03762.md",
@@ -229,7 +230,6 @@
     "LLM/image-13.png",
     "LLM/image-12.png",
     "LLM",
-    "未命名.md",
     "基础",
     "算法基础",
     "未命名.canvas",
