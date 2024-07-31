@@ -4,62 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "50e923a65674b4b4",
+        "id": "5f3897ee95527651",
         "type": "tabs",
         "children": [
           {
-            "id": "d06ba4d282183947",
+            "id": "936bb6c661178d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/数据构造.md",
+                "file": "LLM学习资料/推理.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45faf44795ee4a69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM学习资料/images/分布式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90bd437e19356b34",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "推荐/课程推荐.canvas",
-                "viewState": {
-                  "x": 1229.4387779566016,
-                  "y": -730.1324888637236,
-                  "zoom": -0.5
-                }
-              }
-            }
-          },
-          {
-            "id": "3f5d90820b92a08c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/长文本能力.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM学习资料/images/分布式.md",
+                "file": "LLM学习资料/推理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM学习资料/images/分布式.md",
+                "file": "LLM学习资料/推理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM学习资料/images/分布式.md"
+                "file": "LLM学习资料/推理.md"
               }
             }
           },
@@ -187,15 +147,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "45faf44795ee4a69",
+  "active": "936bb6c661178d2c",
   "lastOpenFiles": [
-    "LLM学习资料/训练.md",
-    "LLM学习资料/images/分布式.md",
-    "LLM学习资料/readme.md",
+    "LLM学习资料/分布式.md",
+    "LLM学习资料/推理.md",
     "LLM学习资料/简介.md",
-    "LLM学习资料/部署.md",
-    "[1706.03762.md",
+    "LLM学习资料/训练.md",
     "LLM学习资料/images/训练.md",
+    "LLM学习资料/部署.md",
+    "LLM学习资料/readme.md",
+    "[1706.03762.md",
     "LLM学习资料/images/Pasted image 20240729194856.png",
     "LLM学习资料/images/Pasted image 20240729193928.png",
     "LLM学习资料/images",
@@ -222,7 +183,6 @@
     "推荐/训练.md",
     "基础/终端配置.md",
     "Pasted image 20240528182708.png",
-    "基础/基础.md",
     "基础/python",
     "LLM/image-16.png",
     "LLM/image-15.png",
