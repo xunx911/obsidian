@@ -11,5 +11,6 @@
 input:你是谁？
 "你是谁"(seq)->tokenizer(分词器)->["你"对应的token_id,"是"对应的token_id,"谁"对应的token_id]
 token_id->embedding层->向量化的token
-向量化的序列->
+向量化的序列->layers->token概率(根据策略选择，例如选最大的就是贪心)
+原序列+新生成的token->继续生成->...->生成eos_token，生成结束
 ```

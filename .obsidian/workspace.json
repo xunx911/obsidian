@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习资料/LLM架构.md",
+                "file": "LLM学习资料/部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习资料/LLM架构.md",
+                "file": "LLM学习资料/部署.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习资料/LLM架构.md",
+                "file": "LLM学习资料/部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习资料/LLM架构.md"
+                "file": "LLM学习资料/部署.md"
               }
             }
           },
@@ -187,16 +187,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "45faf44795ee4a69",
+  "active": "5b0cc58f4d948ee3",
   "lastOpenFiles": [
-    "学习资料/images/Pasted image 20240729194856.png",
-    "学习资料/images/Pasted image 20240729193928.png",
-    "学习资料/images",
+    "LLM学习资料/LLM架构.md",
+    "LLM学习资料/部署.md",
+    "LLM学习资料/images/Pasted image 20240729194856.png",
+    "LLM学习资料/images/Pasted image 20240729193928.png",
+    "LLM学习资料/images",
     "[1706.03762.md",
-    "学习资料/LLM架构.md",
     "Pasted image 20240729190803.png",
     "LLM/学习材料.md",
-    "学习资料",
+    "LLM学习资料",
     "LLM/训练.md",
     "LLM/数据构造.md",
     "LLM/长文本能力.md",
@@ -224,7 +225,6 @@
     "LLM/image-14.png",
     "LLM/image-13.png",
     "LLM/image-12.png",
-    "LLM/image-11.png",
     "LLM",
     "未命名.md",
     "基础",
