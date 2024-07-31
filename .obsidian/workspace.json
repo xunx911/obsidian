@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM学习资料/readme.md",
+                "file": "LLM学习资料/简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM学习资料/readme.md",
+                "file": "LLM学习资料/简介.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM学习资料/readme.md",
+                "file": "LLM学习资料/简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM学习资料/readme.md"
+                "file": "LLM学习资料/简介.md"
               }
             }
           },
@@ -187,16 +187,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "45faf44795ee4a69",
+  "active": "5b0cc58f4d948ee3",
   "lastOpenFiles": [
-    "LLM学习资料/images/训练.md",
-    "LLM学习资料/部署.md",
-    "LLM学习资料/LLM架构.md",
+    "LLM学习资料/训练.md",
+    "LLM学习资料/简介.md",
     "LLM学习资料/readme.md",
+    "LLM学习资料/部署.md",
+    "[1706.03762.md",
+    "LLM学习资料/images/训练.md",
     "LLM学习资料/images/Pasted image 20240729194856.png",
     "LLM学习资料/images/Pasted image 20240729193928.png",
     "LLM学习资料/images",
-    "[1706.03762.md",
     "Pasted image 20240729190803.png",
     "LLM/学习材料.md",
     "LLM学习资料",
@@ -232,7 +233,6 @@
     "基础",
     "算法基础",
     "未命名.canvas",
-    "Pasted image 20240206170656.png.md",
     "Du - A Prompt-based approach for discovering prerequisite relations among concepts.pdf",
     "推荐",
     "论文"
