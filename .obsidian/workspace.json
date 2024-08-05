@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM学习资料/分布式.md",
+                "file": "LLM学习资料/部署.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM学习资料/分布式.md",
+                "file": "LLM学习资料/部署.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM学习资料/分布式.md",
+                "file": "LLM学习资料/部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM学习资料/分布式.md"
+                "file": "LLM学习资料/部署.md"
               }
             }
           },
@@ -147,8 +147,9 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5b0cc58f4d948ee3",
+  "active": "936bb6c661178d2c",
   "lastOpenFiles": [
+    "LLM学习资料/分布式.md",
     "LLM学习资料/images/训练.md",
     "LLM学习资料/readme.md",
     "LLM学习资料/README.md",
@@ -156,7 +157,6 @@
     "LLM学习资料/训练.md",
     "LLM学习资料/推理.md",
     "LLM学习资料/简介.md",
-    "LLM学习资料/分布式.md",
     "LLM学习资料/部署.md",
     "LLM学习资料/RAG.md",
     "LLM学习资料/Prompt Engineering.md",
